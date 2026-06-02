@@ -1,0 +1,26 @@
+##main goals
+- make it so you can  upgarde the rocket you take to space.
+- initial phase where you do stuff to collect money to buy the rocket
+- you build a rocket to reach the moon
+
+##start (june 2nd || 3:41 pm)
+I figured out the main gameplay i want and lore.
+#goals for today
+make a moveable character and space craft.
+make destructable rocks.
+
+------------------------------- DAY 1 ----------------------------------------------------------------
+
+-Made a bunch of placeholder sprites
+-Made the player move and added gravity
+-turns out i made the gravity too small so i made it bigger
+-Decided to add collisons, and broke my game.
+- the player drops in too far inside a wall. Currently troubleshooting (11:08 pm)
+-figured it out( it was because i put a minus instead of plus).
+- Added collisons and proper movement for the player.
+-started work on the rocket(11:19pm)
+-started work on a thrust system for the rocket that uses the mouse wheel (11:25)
+-AND WE HAVE LIFTOFF (11:34)
+-Finished the dynamic thrust control.
+- made the repo properly (11:46)
+----------------------------- DAY END ----------------------------------------------------------------
