@@ -1,22 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_rocket",
+  "%Name":"obj_warp",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_rocket",
+  "name":"obj_warp",
   "overriddenProperties":[],
   "parent":{
-    "name":"THE ROCKET",
-    "path":"folders/THE ROCKET.yy",
+    "name":"Objects",
+    "path":"folders/level/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_Player",
-    "path":"objects/obj_Player/obj_Player.yy",
-  },
-  "persistent":true,
+  "parentObjectId":null,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -34,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_rocket",
-    "path":"sprites/spr_rocket/spr_rocket.yy",
+    "name":"spr_wall",
+    "path":"sprites/spr_wall/spr_wall.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

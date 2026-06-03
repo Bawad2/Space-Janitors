@@ -24,3 +24,37 @@ make destructable rocks.
 -Finished the dynamic thrust control.
 - made the repo properly (11:46)
 ----------------------------- DAY END ----------------------------------------------------------------
+
+
+-------------------------------DAY 2 ----------------------------------------------------------------
+JUNE 3RD 2026
+##goals 
+make the house.
+make the player animated
+make the rocket shoot
+
+start(12:03 PM)
+-trying to figure out how to make the rocket tilt(12:10)
+-got sidetracked and made it so it cant fly 
+ through the ground anymore(12:17)
+-made the tilt work (12:28)
+-tweaked the tilt sensitivity so it feels better
+-decided to add crashing to the game as in the rocket crashes if it
+ hits a wall while going to fast.(12:30)
+-The rocket dies when it hits a wall now and 
+  im gonna add a explosion animation now (12:40)
+-started work on the explosion sprite
+-finished the explosion sprite(12:54)
+- manged to get the explosion working in game but its still too small
+ (1:01 pm)
+- fixed the size problem and added in dynamic size for the explosion
+ in the process (1: 03);
+-went on lunch break(1 :03)
+-made the bullet sprite(2:48)
+-the rocket can shoot now(3:06)
+-started work on the rocks and hp system
+-made the rocks and they blow up after running out of hp(3:24)
+-started work on the warp tile that lets the rocket warp to another room(3:35)
+-so far i can make the room change but once the rocket gets to
+ the other room it breaks(4:10)
+-made it work (4:16)
