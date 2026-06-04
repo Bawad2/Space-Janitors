@@ -2,8 +2,8 @@
 
 
 //dynamic thrust
-if ( mouse_wheel_up() or  keyboard_check_pressed(ord("W"))) and thrust <= 10 { thrust -= thrust_sensy; }
-if ( mouse_wheel_down() or keyboard_check_pressed(ord("S"))) and thrust >= -10 { thrust += thrust_sensy; }
+if ( mouse_wheel_up() or  keyboard_check_pressed(ord("W"))) and  -thrust <= 20 { thrust -= thrust_sensy; }
+if ( mouse_wheel_down() or keyboard_check_pressed(ord("S"))) and -thrust >= -20 { thrust += thrust_sensy; }
 if place_meeting(x, y + grv + 1, obj_wall) and thrust > 0 { thrust = 0; }
 shootkey = mouse_check_button(mb_left);
 //tilt the rocket

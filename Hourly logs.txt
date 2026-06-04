@@ -58,3 +58,18 @@ start(12:03 PM)
 -so far i can make the room change but once the rocket gets to
  the other room it breaks(4:10)
 -made it work (4:16)
+----------------------------- DAY END ----------------------------------------------------------------
+
+
+-------------------------------DAY 3 ----------------------------------------------------------------
+JUNE 4TH 2026
+##Goals
+work on the space level
+work on the inbetween level
+
+start(8:42 AM)
+-decided on making a storm cloud object that you need avoid
+ when going to space
+-got sidetracked and changed up the rock sprite(8:45)
+-started work on a strom cloud sprite
+- finished the storm cloud animated sprite(9:12) 
