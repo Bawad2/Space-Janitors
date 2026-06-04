@@ -1,0 +1,2 @@
+randomise()
+image_index = random(5)

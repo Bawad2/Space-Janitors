@@ -72,4 +72,21 @@ start(8:42 AM)
  when going to space
 -got sidetracked and changed up the rock sprite(8:45)
 -started work on a strom cloud sprite
-- finished the storm cloud animated sprite(9:12) 
+- finished the storm cloud animated sprite(9:12)
+-decided to fix my repo 
+- properly added the clouds to the game(9:30)
+- did a course for github ()
+- started work on some normal looking clouds for design(11:46)
+- added them ingame(11:54)
+- Turns out my rockets throttle cant be turned down so im gonna fix that bug now(11:57)
+- turns out the reason  a ">" instead of a "<" and fixing that fixed the problem(12:00)
+- ran into a problem with my repo and fixed it (I LOST A BUNCH OF STUFF)(12:08) 
+- started work on fixing the viewport and camera settings(12:25)
+- ran into a bug with the warp thing and fixed it (12:35)
+- made it so there is no gravity in space( 12:49)
+- play tested my game
+- started work on star spirtes to decorate space(12:57)
+- made the star sprites(1:20)
+
+
+

@@ -1,7 +1,8 @@
 //dynamic  thrust
-thrust_sensy = 10;
+thrust_sensy = 5;
+maxSpd = 20;
 
-tilt_sensy = 1;
+tilt_sensy = 3;
 //crash
 crashed = 0;
 front = layer_get_id("Front");
@@ -9,6 +10,8 @@ front = layer_get_id("Front");
 thrust = 0;
 grv = 1.7;
 
+//no grv in space
+spaceRooms[0] = rm_Space1;
 
 
 //fire

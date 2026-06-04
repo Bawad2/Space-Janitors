@@ -13,3 +13,5 @@ if hp <= 0
 	instance_create_layer(x, y, "Front", obj_explosion);
 	instance_destroy();
 }
+
+move_wrap(true,true , 100)

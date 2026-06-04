@@ -21,8 +21,8 @@
   ],
   "name":"rm_House",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"EarthLevels",
+    "path":"folders/Rooms/EarthLevels.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
