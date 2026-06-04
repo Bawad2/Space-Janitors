@@ -1,5 +1,4 @@
-//making it move
-motion_set(image_angle,spd)
+
 
 if place_meeting(x, y, obj_bullet) 
 {  
@@ -14,4 +13,3 @@ if hp <= 0
 	instance_destroy();
 }
 
-move_wrap(true,true , 100)

@@ -1,4 +1,4 @@
 randomise()
 hp = 20;
-speed = random(0.3);
+spd = random(1);
 image_angle = random(270);

@@ -87,6 +87,8 @@ start(8:42 AM)
 - play tested my game
 - started work on star spirtes to decorate space(12:57)
 - made the star sprites(1:20)
-
+- started work on devlog()
+- started work on finishing up the rocks(5:15pm)
+- decided to make it so the storm clouds can be shot(5:25)
 
 

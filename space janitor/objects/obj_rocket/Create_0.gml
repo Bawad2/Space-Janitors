@@ -8,7 +8,7 @@ crashed = 0;
 front = layer_get_id("Front");
 
 thrust = 0;
-grv = 1.7;
+grv = 6;
 
 //no grv in space
 spaceRooms[0] = rm_Space1;

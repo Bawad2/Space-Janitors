@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"obj_StormCloud",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_StormCloud",
   "overriddenProperties":[],
@@ -10,8 +13,8 @@
     "path":"folders/level/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_wall",
-    "path":"objects/obj_wall/obj_wall.yy",
+    "name":"obj_Rocks",
+    "path":"objects/obj_Rocks/obj_Rocks.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
