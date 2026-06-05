@@ -8,6 +8,12 @@ JumpKey = keyboard_check_pressed(vk_space);
 if !place_meeting( x + move, y, obj_wall)  { move = rightKey - leftKey; };
 x += move;
 
+//animate
+//flips the charcter
+if sign(move) == -1 { image_xscale = -1;}
+if sign(move) ==  1 { image_xscale =  1;}
+
+
 //JUMPING
 if JumpKey and place_meeting( x, y + 5, obj_wall ) { y -= jumpPwr };
 

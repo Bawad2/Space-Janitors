@@ -90,5 +90,10 @@ start(8:42 AM)
 - started work on devlog()
 - started work on finishing up the rocks(5:15pm)
 - decided to make it so the storm clouds can be shot(5:25)
+- started work on the main character()
+-after trying to make a animated character for 
+ the past 20 mins i give up( 5:41)
+- coded the charcter in a way that can 
+ help me add animated sprites later.
 
 

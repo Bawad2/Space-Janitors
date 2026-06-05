@@ -59,8 +59,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_RocketLaunchPad","path":"rooms/rm_RocketLaunchPad/rm_RocketLaunchPad.yy",},},
     {"roomId":{"name":"rm_House","path":"rooms/rm_House/rm_House.yy",},},
+    {"roomId":{"name":"rm_RocketLaunchPad","path":"rooms/rm_RocketLaunchPad/rm_RocketLaunchPad.yy",},},
     {"roomId":{"name":"rm_BeforeSpace","path":"rooms/rm_BeforeSpace/rm_BeforeSpace.yy",},},
     {"roomId":{"name":"rm_Space1","path":"rooms/rm_Space1/rm_Space1.yy",},},
   ],
