@@ -12,10 +12,7 @@
     "name":"THE ROCKET",
     "path":"folders/THE ROCKET.yy",
   },
-  "parentObjectId":{
-    "name":"obj_Player",
-    "path":"objects/obj_Player/obj_Player.yy",
-  },
+  "parentObjectId":null,
   "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

@@ -1,21 +1,46 @@
-rightKey = keyboard_check(vk_right) || keyboard_check(ord("D"));
-leftKey = keyboard_check(vk_left) || keyboard_check(ord("A"));
-upKey = keyboard_check(vk_up) || keyboard_check(ord("W"));
-JumpKey = keyboard_check_pressed(vk_space);
+//get inputs
+getControls()
 
-//movement
+//X movements
+#region
+//Direction
+moveDir = rightKey - leftKey;
 
-if !place_meeting( x + move, y, obj_wall)  { move = rightKey - leftKey; };
-x += move;
-
-//animate
-//flips the charcter
-if sign(move) == -1 { image_xscale = -1;}
-if sign(move) ==  1 { image_xscale =  1;}
-
-
-//JUMPING
-if JumpKey and place_meeting( x, y + 5, obj_wall ) { y -= jumpPwr };
-
-//gravity
-if !place_meeting(x, y + grv + 1, obj_wall) { y += grv; }
+//Get xspd
+xspd = moveDir * moveSpd;
+//X collison
+var _subPixle = 0.5;
+if place_meeting( x+xspd, y, obj_Wall ) 
+{
+	//scoot up to wall
+	var _pixleCheck = _subPixle*sign(xspd);
+	
+	while !place_meeting( x + _pixleCheck, y, obj_Wall) { x += _pixleCheck;};
+	
+	//real collison
+	xspd = 0; 
+}
+#endregion
+//Y movement
+#region
+  //Gravity
+	 yspd += grv;
+  //apply termVel
+  if yspd > termVel { yspd = termVel;};
+  //Jump
+	if jkeybufferd and place_meeting(x, y+1, obj_Wall) { yspd = jspd; jkeybufferd = 0; jkeybuffertimer = 0; };
+	
+	if place_meeting( x, y + yspd, obj_Wall ) 
+	{
+		//scoot up to wall
+		var _pixleCheck = _subPixle*sign(yspd);
+	
+		while !place_meeting( x , y + _pixleCheck, obj_Wall) { y += _pixleCheck;};
+	
+		//real collison
+		yspd = 0; 
+	}
+#endregion
+//Move the character
+x += xspd;
+y += yspd;

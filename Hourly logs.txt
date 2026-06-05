@@ -96,4 +96,25 @@ start(8:42 AM)
 - coded the charcter in a way that can 
  help me add animated sprites later.
 
+----------------------------- DAY END ----------------------------------------------------------------
+
+-------------------------------DAY 4 ----------------------------------------------------------------
+JUNE 5TH, 2026
+#Goals for the day
+Make the house and outside part and rocketlaunch building.
+
+START(3:31 PM)
+-started work on the house stuff
+-Decided to redraw the main character(3:37)
+-Made the new main chracter sprite(4:07)
+-started work on a tileset for the house(5:25)
+-made the sprite but while implimenting it through the 
+ inbuilt autotile system i realize that i messed up the format
+-finished the tileset(6;11)
+-I now realize i never added side collisons
+-I decided to take the code from one of my older projects
+
+
+
+
 
