@@ -114,6 +114,25 @@ START(3:31 PM)
 -I now realize i never added side collisons
 -I decided to take the code from one of my older projects
 
+----------------------------- DAY END ----------------------------------------------------------------
+
+-------------------------------DAY 5 ----------------------------------------------------------------
+JUNE 6TH, 2026
+#Goals for the day
+Finish what i started yesterday
+
+start(12:42 PM)
+-Started work on decorating the inside of the house(12:42PM)
+-Started work on a bed sprite(4:21)
+-finished the bed sprite(4:44)
+-started work on a sofa sprite(4:56)
+-Finished the sofa(5:08)
+-I now realize that i will probably remake all these sprites later
+ so i should work on other things now.
+-Started work making a door that lets you out of the room (5:09)
+
+
+
 
 
 

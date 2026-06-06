@@ -1,5 +1,5 @@
 
-
+getControls()
 
 //dynamic thrust
 if ( mouse_wheel_up() or  keyboard_check_pressed(ord("W"))) and  -thrust <= maxSpd { thrust -= thrust_sensy; }
@@ -9,8 +9,8 @@ shootkey = mouse_check_button(mb_left);
 //tilt the rocket
 if !place_meeting(x, y + grv + 1, obj_wall)
 {
-if keyboard_check(ord("D")) || keyboard_check(vk_right) { image_angle -= tilt_sensy};
-if keyboard_check(ord("A")) || keyboard_check(vk_left)  { image_angle += tilt_sensy};
+if rightKey { image_angle -= tilt_sensy};
+if leftKey  { image_angle += tilt_sensy};
 }
 
 //crashing
