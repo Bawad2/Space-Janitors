@@ -130,10 +130,13 @@ start(12:42 PM)
 -I now realize that i will probably remake all these sprites later
  so i should work on other things now.
 -Started work making a door that lets you out of the room (5:09)
-
-
-
-
-
-
-
+-made the door(5:23)
+-Started work on a tileset for the outside level(5:24)
+-finished the road tileset(5:38)
+-Started work on the house sprite the one that you can see from outside
+ (6:21)
+-finished the house sprite(6:39)
+-made a type of wall that lets you walk on top of it
+-Now you can properly walk in and out of rooms(6:55)
+-started on the sprite for the launch site(9:48 pm)
+-started work on a new rocket sprite(9:56)

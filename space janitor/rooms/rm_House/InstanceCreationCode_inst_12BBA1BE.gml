@@ -1,3 +1,3 @@
 rm = rm_outside;
-gotoX = 288;
-gotoY = 480;
+gotoX = 166;
+gotoY = 268;

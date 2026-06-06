@@ -25,7 +25,9 @@ if place_meeting( x+xspd, y, obj_Wall )
 #region
   //Gravity
 	 yspd += grv;
-  //apply termVel
+  //stop grvity if on walkable walls
+	if place_meeting( x, y, obj_walkableWall ) { yspd = 0; }
+  //apply termVel 
   if yspd > termVel { yspd = termVel;};
   //Jump
 	if jkeybufferd and place_meeting(x, y+1, obj_Wall) { yspd = jspd; jkeybufferd = 0; jkeybuffertimer = 0; };
