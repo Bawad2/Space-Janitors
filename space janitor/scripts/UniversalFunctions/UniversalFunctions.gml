@@ -24,6 +24,7 @@ function getControls(){
 	mbM				= mouse_check_button_released(mb_middle);
 	anyKey			= keyboard_check(vk_anykey) || mouse_check_button_released(mb_any);
 	killButton		= keyboard_check_pressed( vk_delete ) || gamepad_button_check_released( 0 , gp_start )
+	interactKey     = keyboard_check_pressed(ord("E")) || gamepad_button_check_released( 0 , gp_face2 )
 	//key buffering
 	if jumpKeyPressed		{ jkeybuffertimer = buffertime; };
 	if jkeybuffertimer > 0	{ jkeybufferd = 1; jkeybuffertimer--;  } else { jkeybufferd = 0; }

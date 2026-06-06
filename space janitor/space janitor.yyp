@@ -41,6 +41,7 @@
   "name":"space janitor",
   "resources":[
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
+    {"id":{"name":"obj_Door","path":"objects/obj_Door/obj_Door.yy",},},
     {"id":{"name":"obj_explosion","path":"objects/obj_explosion/obj_explosion.yy",},},
     {"id":{"name":"obj_GameManger","path":"objects/obj_GameManger/obj_GameManger.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
@@ -52,6 +53,7 @@
     {"id":{"name":"obj_warp","path":"objects/obj_warp/obj_warp.yy",},},
     {"id":{"name":"rm_BeforeSpace","path":"rooms/rm_BeforeSpace/rm_BeforeSpace.yy",},},
     {"id":{"name":"rm_House","path":"rooms/rm_House/rm_House.yy",},},
+    {"id":{"name":"rm_outside","path":"rooms/rm_outside/rm_outside.yy",},},
     {"id":{"name":"rm_RocketLaunchPad","path":"rooms/rm_RocketLaunchPad/rm_RocketLaunchPad.yy",},},
     {"id":{"name":"rm_Space1","path":"rooms/rm_Space1/rm_Space1.yy",},},
     {"id":{"name":"UniversalFunctions","path":"scripts/UniversalFunctions/UniversalFunctions.yy",},},
@@ -81,6 +83,7 @@
     {"roomId":{"name":"rm_RocketLaunchPad","path":"rooms/rm_RocketLaunchPad/rm_RocketLaunchPad.yy",},},
     {"roomId":{"name":"rm_BeforeSpace","path":"rooms/rm_BeforeSpace/rm_BeforeSpace.yy",},},
     {"roomId":{"name":"rm_Space1","path":"rooms/rm_Space1/rm_Space1.yy",},},
+    {"roomId":{"name":"rm_outside","path":"rooms/rm_outside/rm_outside.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
