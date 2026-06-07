@@ -4,17 +4,17 @@ getControls()
 //dynamic thrust
 if ( mouse_wheel_up() or  keyboard_check_pressed(ord("W"))) and  -thrust <= maxSpd { thrust -= thrust_sensy; }
 if ( mouse_wheel_down() or keyboard_check_pressed(ord("S"))) and -thrust >= -maxSpd { thrust += thrust_sensy; }
-if place_meeting(x, y + grv + 1, obj_wall) and thrust > 0 { thrust = 0; }
+if place_meeting(x, y + grv + 1, obj_Wall) and thrust > 0 { thrust = 0; }
 shootkey = mouse_check_button(mb_left);
 //tilt the rocket
-if !place_meeting(x, y + grv + 1, obj_wall)
+if !place_meeting(x, y + grv + 1, obj_Wall)
 {
 if rightKey { image_angle -= tilt_sensy};
 if leftKey  { image_angle += tilt_sensy};
 }
 
 //crashing
-if place_meeting( x, y, obj_wall ) { crashed = true }
+if place_meeting( x, y, obj_Wall ) { crashed = true }
 
 if crashed 
 {
@@ -38,6 +38,6 @@ if shootkey and reloadtimer == 0
 if reloadtimer > 0 { reloadtimer --;}
 
 //gravity
-if !place_meeting(x, y + grv + 1, obj_wall) and !array_contains(spaceRooms,room) { y += grv; }
+if !place_meeting(x, y + grv + 1, obj_Wall) and !array_contains(spaceRooms,room) { y += grv; }
 
 move_wrap(true, true, 0)
