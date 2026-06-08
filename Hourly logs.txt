@@ -140,3 +140,17 @@ start(12:42 PM)
 -Now you can properly walk in and out of rooms(6:55)
 -started on the sprite for the launch site(9:48 pm)
 -started work on a new rocket sprite(9:56)
+----------------------------- DAY END ----------------------------------------------------------------
+
+
+-------------------------------DAY 6 ----------------------------------------------------------------
+JUNE 8TH, 2026
+my school starts from today so i will be a bit less active
+#Goals for the day
+finish up the outside portion
+start(10:46 AM)
+-Started work on some finishing touches for the rocket.
+-restarted work on the launchsite sprite(11:10)
+-restarted work after coming back home from school(6:43)
+-Finished the sprite after a few breaks(8:30)
+
