@@ -174,12 +174,22 @@ start(7:50Pm)
 - IT WORKS!!!!(9:52pm)
 - started work on a Devlog(9:54)
 
+----------------------------- DAY END ----------------------------------------------------------------
 
-
-
-
-
-
+-------------------------------DAY 8 ----------------------------------------------------------------
+June 9TH, 2026
+#Goals for the day
+- Fix the walkable walls 
+- add animation to the player
+start(10:49 AM);
+-started work on fixing the walkable walls()
+-Now the character can walk Up and down on the walkable walls(10:58);
+-fixed the glitch where the player startes tweaking(11:07)
+- after a while of struggling I decided to take jumping away from the game()
+-started work on learning pixel art(7:45)
+-decided to redraw the charcter again(8:08)
+-Got destracked and started work on the lore(8:18);
+-finished the new sprite for the charcter(9:00);
 
 
 

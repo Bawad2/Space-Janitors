@@ -1,0 +1,21 @@
+Underlying themes
+-Corruption
+-Rasicm
+-life of a less fortunate person(Poverty)
+
+#CorruptionThe word Janitor comes from the latin work inator or smthig. It means
+doorkeepr. In my game Space janitor will refer to the underlying 
+corruption in goverments that leads to poverty and door keeping space 
+from the less fortunate people.
+
+#Rasicm
+The people of the game will be classified as defrent races based on
+their skin colour.The people with darker skin will have a harder time
+finding jobs(The main character)
+
+#Poverty
+The main charcter will have a very bad house at the start of the game
+
+##Design choices that reflect these lore
+keep the designs simple but do more research on the colors.
+

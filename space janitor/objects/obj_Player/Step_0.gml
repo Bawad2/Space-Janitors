@@ -24,13 +24,22 @@ if place_meeting( x+xspd, y, obj_Wall )
 //Y movement
 #region
   //Gravity
+    //stop grvity if on walkable walls
+	if place_meeting( x, y , obj_walkableWall ) { grv = 0 ; } else { grv = 0.6;}
+	//moveUp and Down on walkable walls
+	if place_meeting( x, y, obj_walkableWall)
+	{
+		YmoveDir = downKey - upKey
+		yspd = YmoveDir*YmoveSpd;
+	}
+	
+	
 	 yspd += grv;
-  //stop grvity if on walkable walls
-	if place_meeting( x, y, obj_walkableWall ) { yspd = 0; }
+	 
   //apply termVel 
   if yspd > termVel { yspd = termVel;};
   //Jump
-	if jkeybufferd and place_meeting(x, y+1, obj_Wall) { yspd = jspd; jkeybufferd = 0; jkeybuffertimer = 0; };
+	if jkeybufferd and  place_meeting(x, y+1, obj_Wall) { yspd = jspd; jkeybufferd = 0; jkeybuffertimer = 0; };
 	
 	if place_meeting( x, y + yspd, obj_Wall ) 
 	{

@@ -2,6 +2,8 @@
 conSetup();
 //movement
 moveDir = 0;
+YmoveDir = 0;
+YmoveSpd = 1;
 moveSpd = 2;
 xspd	= 0;
 yspd	= 0;
