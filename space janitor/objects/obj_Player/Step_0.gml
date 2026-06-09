@@ -43,6 +43,14 @@ if place_meeting( x+xspd, y, obj_Wall )
 		yspd = 0; 
 	}
 #endregion
+//go to rocket launch room if your in contact with the obj_boarder
+
+if place_meeting( x, y, obj_Boarder) and interactKey { room_goto(rm_RocketLaunch); }
+
+//makes it so the player is transparent on the launch site
+if room == rm_RocketLaunch { image_alpha = 0;}
+
+
 //Move the character
 x += xspd;
 y += yspd;

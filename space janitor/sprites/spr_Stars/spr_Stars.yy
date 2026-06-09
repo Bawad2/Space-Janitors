@@ -31,7 +31,7 @@
   "origin":0,
   "parent":{
     "name":"Decoration",
-    "path":"folders/level/Sprites/Decoration.yy",
+    "path":"folders/Global/level/Sprites/Decoration.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,5 +1,7 @@
 conSetup();
 
+
+
 //dynamic  thrust
 thrust_sensy = 5;
 maxSpd = 20;

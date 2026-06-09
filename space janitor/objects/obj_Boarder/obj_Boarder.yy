@@ -1,21 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Rocks",
+  "%Name":"obj_Boarder",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Rocks",
+  "name":"obj_Boarder",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Global/level/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_Wall",
-    "path":"objects/obj_Wall/obj_Wall.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -34,9 +31,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_RockS",
-    "path":"sprites/spr_RockS/spr_RockS.yy",
+    "name":"spr_Boarder",
+    "path":"sprites/spr_Boarder/spr_Boarder.yy",
   },
-  "spriteMaskId":null,
-  "visible":true,
+  "spriteMaskId":{
+    "name":"spr_Boarder",
+    "path":"sprites/spr_Boarder/spr_Boarder.yy",
+  },
+  "visible":false,
 }

@@ -153,4 +153,34 @@ start(10:46 AM)
 -restarted work on the launchsite sprite(11:10)
 -restarted work after coming back home from school(6:43)
 -Finished the sprite after a few breaks(8:30)
+----------------------------- DAY END ----------------------------------------------------------------
+
+-------------------------------DAY 7 ----------------------------------------------------------------
+JUNE 8TH, 2026
+(Today i realized i have been getting the dates wrong for the past week )
+
+#Goals for the day
+finish the outside portion
+
+start(7:50Pm)
+-made it so the charcter can go to the launchsite (7:55)
+-for some reason my rocket is having a seizure im 
+ gonna fix it now
+-fixed it(7:56)
+-started work on making it so the player can board the rocket.(8:45)
+-started work on the boarder sprite( 9:07)
+-gave up working on the the sprite and decided to make a separate room where the player gets on board the rocket (9:27)
+- i was having a camera glitch but manged to fix it(9:39)
+- IT WORKS!!!!(9:52pm)
+- started work on a Devlog(9:54)
+
+
+
+
+
+
+
+
+
+
 

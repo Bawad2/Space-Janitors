@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
-    "path":"folders/level/Objects.yy",
+    "path":"folders/Global/level/Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_Rocks",
