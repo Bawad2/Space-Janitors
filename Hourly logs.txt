@@ -199,6 +199,8 @@ JUNE 10TH, 2026
 - do the animations
 
 start(9:23)
--started work on animating the character 
-
-
+-started work on animating the character() 
+-Finished the sprits(9:37)
+-Implimented them(9:46)
+-realized they look shitty so restarted work on the sprites(9:46)
+-Finished the new ones (10:13)
