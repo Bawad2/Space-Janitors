@@ -72,6 +72,7 @@
     {"id":{"name":"spr_OutsideTileset","path":"sprites/spr_OutsideTileset/spr_OutsideTileset.yy",},},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
     {"id":{"name":"spr_PlayerOLD","path":"sprites/spr_PlayerOLD/spr_PlayerOLD.yy",},},
+    {"id":{"name":"spr_PlayerWalking","path":"sprites/spr_PlayerWalking/spr_PlayerWalking.yy",},},
     {"id":{"name":"spr_rocket","path":"sprites/spr_rocket/spr_rocket.yy",},},
     {"id":{"name":"spr_RockS","path":"sprites/spr_RockS/spr_RockS.yy",},},
     {"id":{"name":"spr_Sofa","path":"sprites/spr_Sofa/spr_Sofa.yy",},},

@@ -190,7 +190,15 @@ start(10:49 AM);
 -decided to redraw the charcter again(8:08)
 -Got destracked and started work on the lore(8:18);
 -finished the new sprite for the charcter(9:00);
+----------------------------- DAY END ----------------------------------------------------------------
 
+-------------------------------DAY 9 ----------------------------------------------------------------
+JUNE 10TH, 2026
 
+#Goals for the day
+- do the animations
+
+start(9:23)
+-started work on animating the character 
 
 
