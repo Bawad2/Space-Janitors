@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Global/EXTRA STUFF/Sprites.yy",
+    "name":"Unused",
+    "path":"folders/Global/EXTRA STUFF/Sprites/Unused.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

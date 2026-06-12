@@ -7,6 +7,11 @@ YmoveSpd = 1;
 moveSpd = 2;
 xspd	= 0;
 yspd	= 0;
+//sprites
+WalkSprite =  spr_PlayerWalking;
+Sprite =  spr_Player;
+SpriteSize = 3;
+image_xscale = SpriteSize;
 
 //jumping
 

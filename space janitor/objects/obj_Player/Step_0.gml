@@ -65,10 +65,12 @@ x += xspd;
 y += yspd;
 
 //Animate
-if sign(xspd) == 1 { image_xscale = 1};
-if sign(xspd) == -1 { image_xscale = -1};
-if moveDir != 0 { sprite_index = spr_PlayerWalkingOLD; };
-if moveDir == 0 { sprite_index = spr_Player; };
+
+image_yscale = SpriteSize;
+if sign(xspd) == 1 { image_xscale = SpriteSize;};
+if sign(xspd) == -1 { image_xscale = -SpriteSize;};
+if moveDir != 0 { sprite_index = WalkSprite; };
+if moveDir == 0 { sprite_index = Sprite; };
 
 
 
