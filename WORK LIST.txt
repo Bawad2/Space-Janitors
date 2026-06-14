@@ -1,0 +1,26 @@
+Here all the things I need to do will be put in list divided by sectors .
+#Program
+-UI 
+-Level System
+-Upgradeable Rocket
+-NPCs
+-Text System
+-FIGURE OUT AS I GO
+#Sprites
+-New sprites for the existing things with the palette
+-NPCs
+-UI
+-FIGURE OUT AS YOU GO
+
+#Sound
+-UI
+-Player
+-Rocket
+-FIGURE OUT AS YOU GO
+
+
+
+
+
+
+

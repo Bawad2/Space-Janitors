@@ -63,6 +63,7 @@
     {"id":{"name":"UniversalFunctions","path":"scripts/UniversalFunctions/UniversalFunctions.yy",},},
     {"id":{"name":"Palette","path":"sprites/Palette/Palette.yy",},},
     {"id":{"name":"spr_Bed","path":"sprites/spr_Bed/spr_Bed.yy",},},
+    {"id":{"name":"spr_BedOG","path":"sprites/spr_BedOG/spr_BedOG.yy",},},
     {"id":{"name":"spr_Boarder","path":"sprites/spr_Boarder/spr_Boarder.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_Clouds","path":"sprites/spr_Clouds/spr_Clouds.yy",},},

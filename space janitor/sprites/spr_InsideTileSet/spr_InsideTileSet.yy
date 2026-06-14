@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"spr_InsideTileSet",
   "bboxMode":0,
-  "bbox_bottom":95,
+  "bbox_bottom":102,
   "bbox_left":0,
   "bbox_right":63,
   "bbox_top":0,

@@ -9,7 +9,7 @@ I figured out the main gameplay i want and lore.
 make a moveable character and space craft.
 make destructable rocks.
 
-------------------------------- DAY 1 ----------------------------------------------------------------
+------------------------------ DAY 1 ---------------------------------------
 
 -Made a bunch of placeholder sprites
 -Made the player move and added gravity
@@ -220,6 +220,47 @@ start(7:53 PM)
 -Found a color palette i was happy with (8:04)
 -desided to redesign the charcter with a lower resolution(8:11Pm)
 -Finished the new sprite(9:08);
+
+---------------------------- DAY END ----------------------------------------------------------------
+
+-------------------------------DAY 11 ----------------------------------------------------------
+JUNE 12TH, 2026
+#Goals for the day
+-figure out the things i need to work on
+
+Start(10:29PM)
+-Started work on making a list of things I need to work on()
+-Finished a temporary list(10:41PM)
+-Decided to work on figuring out my repo stuff
+-watched a 30 min tutorial didnt help(11:06PM)
+-Im really sleepy so i decided to end the day here
+
+---------------------------- DAY END ----------------------------------------------------------------
+
+
+-------------------------------DAY 12 ----------------------------------------------------------
+June 13th, 2026
+#Goals for the day
+-remake the sprites
+
+Start(5:41PM)
+-Started work on the tileset()
+-Started work on the bed sprite(5:54)
+-made some changes to the player sprite(5:57)
+-fixed some bugges of the rocket(7:36)
+-finished the tileset(7:40)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
