@@ -235,7 +235,7 @@ Start(10:29PM)
 -watched a 30 min tutorial didnt help(11:06PM)
 -Im really sleepy so i decided to end the day here
 
----------------------------- DAY END ----------------------------------------------------------------
+---------------------------- DAY END  ---------------------------------------------------------
 
 
 -------------------------------DAY 12 ----------------------------------------------------------
@@ -249,6 +249,25 @@ Start(5:41PM)
 -made some changes to the player sprite(5:57)
 -fixed some bugges of the rocket(7:36)
 -finished the tileset(7:40)
+---------------------------- DAY END  ---------------------------------------------------------
+
+-------------------------------DAY 13 ----------------------------------------------------------
+June 14th, 2026
+#Goals for the day
+-Do everthing to make this game demo ready
+-
+
+Start(7:02 PM)
+-Started work on the ever elusive UI(7:04PM)
+-Started Work on title sprite(7:06)
+-finished the sprite(7:42)
+-Relized I deleted some important stuff()
+-decied to re do all of it()
+-fixed it(7:47)
+-restarted work on the UI(7:49)
+-relized i need a refresher on UI so decided to watch a tutorial(7:53)
+-started work on sprite for the flex panel(8:30 )
+-finished the sprite(8:34)
 
 
 
