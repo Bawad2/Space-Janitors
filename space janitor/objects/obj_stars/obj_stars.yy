@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Decoration",
-    "path":"folders/Global/level/Objects/Decoration.yy",
+    "path":"folders/Global/Universal Objects/Objects/Decoration.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -15,7 +15,7 @@
   "out_tilevborder":2,
   "parent":{
     "name":"Tilesets",
-    "path":"folders/Global/level/Tilesets.yy",
+    "path":"folders/Global/Tilesets.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

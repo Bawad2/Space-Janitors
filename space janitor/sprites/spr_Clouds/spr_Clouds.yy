@@ -30,7 +30,7 @@
   "origin":9,
   "parent":{
     "name":"Decoration",
-    "path":"folders/Global/level/Sprites/Decoration.yy",
+    "path":"folders/Global/Universal Sprites/Sprites/Decoration.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

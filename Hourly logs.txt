@@ -268,16 +268,30 @@ Start(7:02 PM)
 -relized i need a refresher on UI so decided to watch a tutorial(7:53)
 -started work on sprite for the flex panel(8:30 )
 -finished the sprite(8:34)
+---------------------------- DAY END  ---------------------------------------------------------
 
+-------------------------------DAY 14 ----------------------------------------------------------
+June 15th, 2026
+#Goals for the day
+-keep working on UI
 
-
-
-
-
-
-
-
-
+start(4:53)
+-started of by watching a tutorial(4:53 PM)
+-started work on button sprites( 5:02 )
+-finished the Main menu(6:20);
+-reworking the sprites(11:24PM)
+-finished the new sprites(11:32PM)
+-Found a few bugs with the player animation decided to fix them(11:33pm)
+-fixed the bugs(11:38PM)
+-Decided to work on the pause menu inside the game(11:40PM)
+-decided to make it so when the game pauses the whole screen has a slight tint on top of it(11:45)
+-got all the code ready now i have to work on making the actual UI elements (11:52PM)
+-ran into a bug that ate up my time()
+JUNE 16th, 2026
+-found the error was because of a misplaced "!" (12:29AM)
+-Got it to work(12:36)
+-Ran into a bug where you cant close the pause menu()
+-you can open the pause menu all fine and dandy but you can't close it(12:40AM)
 
 
 

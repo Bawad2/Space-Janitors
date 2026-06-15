@@ -69,8 +69,8 @@ y += yspd;
 image_yscale = SpriteSize;
 if sign(xspd) == 1 { image_xscale = SpriteSize;};
 if sign(xspd) == -1 { image_xscale = -SpriteSize;};
-if moveDir != 0 { sprite_index = WalkSprite; };
-if moveDir == 0 { sprite_index = Sprite; };
+if moveDir != 0 or YmoveSpd != 0 { sprite_index = WalkSprite; };
+if moveDir == 0 and YmoveDir == 0 { sprite_index = Sprite; };
 
 
 

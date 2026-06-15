@@ -45,7 +45,7 @@
   "origin":0,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Global/level/Sprites.yy",
+    "path":"folders/Global/Universal Sprites/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
