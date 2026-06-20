@@ -9,7 +9,7 @@ I figured out the main gameplay i want and lore.
 make a moveable character and space craft.
 make destructable rocks.
 
------------------------------- DAY 1 ---------------------------------------
+------------------------------ DAY 1 -------------------------------------------------------------
 
 -Made a bunch of placeholder sprites
 -Made the player move and added gravity
@@ -23,10 +23,11 @@ make destructable rocks.
 -AND WE HAVE LIFTOFF (11:34)
 -Finished the dynamic thrust control.
 - made the repo properly (11:46)
------------------------------ DAY END ----------------------------------------------------------------
+
+---------------------------- DAY END -----------------------------------------------------------
 
 
--------------------------------DAY 2 ----------------------------------------------------------------
+-------------------------------DAY 2 -------------------------------------------------------------
 JUNE 3RD 2026
 ##goals 
 make the house.
@@ -58,10 +59,11 @@ start(12:03 PM)
 -so far i can make the room change but once the rocket gets to
  the other room it breaks(4:10)
 -made it work (4:16)
------------------------------ DAY END ----------------------------------------------------------------
+
+---------------------------- DAY END -----------------------------------------------------------
 
 
--------------------------------DAY 3 ----------------------------------------------------------------
+-------------------------------DAY 3 -------------------------------------------------------------
 JUNE 4TH 2026
 ##Goals
 work on the space level
@@ -96,9 +98,10 @@ start(8:42 AM)
 - coded the charcter in a way that can 
  help me add animated sprites later.
 
------------------------------ DAY END ----------------------------------------------------------------
 
--------------------------------DAY 4 ----------------------------------------------------------------
+---------------------------- DAY END -----------------------------------------------------------
+
+-------------------------------DAY 4 -----------------------------------------------------------
 JUNE 5TH, 2026
 #Goals for the day
 Make the house and outside part and rocketlaunch building.
@@ -114,9 +117,10 @@ START(3:31 PM)
 -I now realize i never added side collisons
 -I decided to take the code from one of my older projects
 
------------------------------ DAY END ----------------------------------------------------------------
 
--------------------------------DAY 5 ----------------------------------------------------------------
+---------------------------- DAY END -----------------------------------------------------------
+
+-------------------------------DAY 5 -----------------------------------------------------------
 JUNE 6TH, 2026
 #Goals for the day
 Finish what i started yesterday
@@ -140,10 +144,11 @@ start(12:42 PM)
 -Now you can properly walk in and out of rooms(6:55)
 -started on the sprite for the launch site(9:48 pm)
 -started work on a new rocket sprite(9:56)
------------------------------ DAY END ----------------------------------------------------------------
+
+---------------------------- DAY END -----------------------------------------------------------
 
 
--------------------------------DAY 6 ----------------------------------------------------------------
+-------------------------------DAY 6 ------------------------------------------------------------
 JUNE 8TH, 2026
 my school starts from today so i will be a bit less active
 #Goals for the day
@@ -153,9 +158,10 @@ start(10:46 AM)
 -restarted work on the launchsite sprite(11:10)
 -restarted work after coming back home from school(6:43)
 -Finished the sprite after a few breaks(8:30)
------------------------------ DAY END ----------------------------------------------------------------
 
--------------------------------DAY 7 ----------------------------------------------------------------
+---------------------------- DAY END -----------------------------------------------------------
+
+-------------------------------DAY 7 -----------------------------------------------------------
 JUNE 8TH, 2026
 (Today i realized i have been getting the dates wrong for the past week )
 
@@ -174,9 +180,10 @@ start(7:50Pm)
 - IT WORKS!!!!(9:52pm)
 - started work on a Devlog(9:54)
 
------------------------------ DAY END ----------------------------------------------------------------
+-
+---------------------------- DAY END -----------------------------------------------------------
 
--------------------------------DAY 8 ----------------------------------------------------------------
+-------------------------------DAY 8 -----------------------------------------------------------
 June 9TH, 2026
 #Goals for the day
 - Fix the walkable walls 
@@ -190,9 +197,10 @@ start(10:49 AM);
 -decided to redraw the charcter again(8:08)
 -Got destracked and started work on the lore(8:18);
 -finished the new sprite for the charcter(9:00);
------------------------------ DAY END ----------------------------------------------------------------
 
--------------------------------DAY 9 ----------------------------------------------------------------
+---------------------------- DAY END -----------------------------------------------------------
+
+-------------------------------DAY 9 ----------------------------------------------------------
 JUNE 10TH, 2026
 
 #Goals for the day
@@ -207,8 +215,8 @@ start(9:23)
 -They finally fixed lapse so i can work again (10:30PM)
 -Decided to rework the sprites again.(10:30)
 -Now i realize my brain doesnt work well this late(10:58)
----------------------------- DAY END ----------------------------------------------------------------
 
+---------------------------- DAY END -----------------------------------------------------------
 
 -------------------------------DAY 10 ----------------------------------------------------------
 JUNE 11TH, 2026
@@ -221,7 +229,7 @@ start(7:53 PM)
 -desided to redesign the charcter with a lower resolution(8:11Pm)
 -Finished the new sprite(9:08);
 
----------------------------- DAY END ----------------------------------------------------------------
+---------------------------- DAY END -----------------------------------------------------------
 
 -------------------------------DAY 11 ----------------------------------------------------------
 JUNE 12TH, 2026
@@ -292,8 +300,60 @@ JUNE 16th, 2026
 -Got it to work(12:36)
 -Ran into a bug where you cant close the pause menu()
 -you can open the pause menu all fine and dandy but you can't close it(12:40AM)
+---------------------------- DAY END  ---------------------------------------------------------
 
+-------------------------------DAY 15 ----------------------------------------------------------
+JUNE 16th, 2026
+# Goals for the day 
+- fix the repo
+- fix up the devlogs
+-make it ready as ready as you can for shipping
 
+start (8:30AM)
+
+-started work on fixing up my past devlogs by learning markdown()
+-finished work on the first devlog (8:58AM)
+-lwk started fixing up the hourly log()
+-fixed up the logs(9:02AM)
+-restarted work and finished 2 more devlogs (10:57)
+-decided to watch a tutorail on text formatting (11:00 AM)
+-finished all the devlogs(11:45AM)
+-Restarted work(7:05PM)
+-started fixing the bug with the pause menu(7:06PM)
+-fixed the bug(7:20PM)
+-decided to make a new animation of the player laying on the bed(7:21)
+JUNE 17th, 2026
+- got back to work(12:30AM)
+-finished the sprite(12:36)
+-decided to export the game so i can put it on itch and start fixing up the problems(12:38)
+-as expected my game completely breaks on the html export(12:46)
+-decided to watch a tutorial about it(12:47)
+-fixed the bugs that come with exporting(1:01AM)
+-worked on making the itch page look better(1:09AM)
+-fixed a bug related to the ui(1:12AM)
+-started work on a devlog (1:16AM)
+---------------------------- DAY END  ---------------------------------------------------------
+
+-------------------------------DAY 16 ----------------------------------------------------------
+JUNE 17th, 2026
+#Goals for the day 
+-impliment the sprite from the last day
+
+start(11:40PM)
+-started work on making it so the player can sleep on the bed()
+-started of by making a new bed object(11:42)
+- was confused as to why it was not working only to realize it was because i didnt put the object in the game.(11:53)
+June 18th, 2026
+-Finally made it so the player can get in and out of the bed(12:23AM) everything else fuhed tho
+-IT WORKS!!!!(12:39AM)
+-decieded to upload it to itch(12:43)
+-after uploading it i found more bugs(12:45)
+-for some reason the bug only exists on itch(12:45)
+- found another bug not realated to the bed but decided to fix it now anyways(12:51);
+-Turns out i have bunch of problems the apper on itch(1:15)
+-i decided that i wil work on them tmrw(1:15)
+-started work on the devlog(1;18)
+---------------------------- DAY END  ---------------------------------------------------------
 
 
 

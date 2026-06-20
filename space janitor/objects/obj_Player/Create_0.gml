@@ -10,8 +10,11 @@ yspd	= 0;
 //sprites
 WalkSprite =  spr_PlayerWalking;
 Sprite =  spr_Player;
-SpriteSize = 3;
+SpriteSize = 4;
 image_xscale = SpriteSize;
+
+//misc
+on_bed = 0;
 
 //jumping
 
