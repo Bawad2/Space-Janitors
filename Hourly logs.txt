@@ -356,4 +356,20 @@ June 18th, 2026
 ---------------------------- DAY END  ---------------------------------------------------------
 
 
+-------------------------------DAY 17 ----------------------------------------------------------
+JUNE 25TH 2026
+#Goals for the day
+Get back in the game
+
+I had a really bad makers block for the past week so i didnt do anything. Decided to get started today
+
+Start(2:57PM)
+-looked into why my game breaks in itch()
+-I have failed to figure it out(3:09)
+-decided to work on the list of stuff i need to work on()
+-decided to make so that you go to the rocket launch site by hoping on to a car(3:12)
+-started work on the car sprite(3:13)
+-I lost all my progress on the car in a freak accidental ctrl+x and ctrl + z (3:41)
+-Restarted work(3:43)
+
 
