@@ -371,5 +371,7 @@ Start(2:57PM)
 -started work on the car sprite(3:13)
 -I lost all my progress on the car in a freak accidental ctrl+x and ctrl + z (3:41)
 -Restarted work(3:43)
+-Remaking somthing is much easier then making it the first time(3:47PM)
+-decided to make it so the car has a exhaust as in to animate it(3:48PM)
 
 
