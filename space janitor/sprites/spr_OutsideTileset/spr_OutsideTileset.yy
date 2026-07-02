@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"TileSprites",
-    "path":"folders/Global/Universal Sprites/Sprites/TileSprites.yy",
+    "path":"folders/Sprites/TileSprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

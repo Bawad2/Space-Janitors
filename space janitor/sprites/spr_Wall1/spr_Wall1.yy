@@ -44,8 +44,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Global/Universal Sprites/Sprites.yy",
+    "name":"PlaceHolders",
+    "path":"folders/Sprites/PlaceHolders.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

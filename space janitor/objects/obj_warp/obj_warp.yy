@@ -9,8 +9,8 @@
   "name":"obj_warp",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Global/Universal Objects/Objects.yy",
+    "name":"Invisible",
+    "path":"folders/Objects/Invisible.yy",
   },
   "parentObjectId":null,
   "persistent":false,

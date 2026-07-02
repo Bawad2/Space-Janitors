@@ -6,8 +6,8 @@
   "name":"obj_bed",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Global/Universal Objects/Objects.yy",
+    "name":"Decoration",
+    "path":"folders/Objects/Decoration.yy",
   },
   "parentObjectId":null,
   "persistent":false,

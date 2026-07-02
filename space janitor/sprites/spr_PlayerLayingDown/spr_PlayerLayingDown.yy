@@ -33,7 +33,7 @@
   "origin":9,
   "parent":{
     "name":"Animations",
-    "path":"folders/THE PLAYER/sprites/Animations.yy",
+    "path":"folders/Sprites/The player/Animations.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

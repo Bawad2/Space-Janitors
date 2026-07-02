@@ -44,8 +44,8 @@
   },
   "origin":9,
   "parent":{
-    "name":"THE ROCKET",
-    "path":"folders/THE ROCKET.yy",
+    "name":"The rocket",
+    "path":"folders/Sprites/The rocket.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

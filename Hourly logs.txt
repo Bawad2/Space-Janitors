@@ -373,5 +373,23 @@ Start(2:57PM)
 -Restarted work(3:43)
 -Remaking somthing is much easier then making it the first time(3:47PM)
 -decided to make it so the car has a exhaust as in to animate it(3:48PM)
+---------------------------- DAY END  ---------------------------------------------------------
+
+
+
+-------------------------------DAY 18 ----------------------------------------------------------
+JUNE 30Th, 2026
+#Goals for the day
+make some progress
+I have a test going on rn so I am much less active
+
+start(5:29PM)
+-restarted work on the car sprite animation(5:30)
+-finished the car idle sprite (5:35 pm)
+-started work on restructuring the files(5:35Pm)
+-rearanged my files thats it(5:48)
+
+
+
 
 

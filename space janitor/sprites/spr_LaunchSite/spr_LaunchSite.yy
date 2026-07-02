@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Global/Universal Sprites/Sprites.yy",
+    "name":"backgound",
+    "path":"folders/Sprites/backgound.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

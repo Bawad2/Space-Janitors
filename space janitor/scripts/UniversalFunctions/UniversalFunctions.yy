@@ -6,7 +6,7 @@
   "name":"UniversalFunctions",
   "parent":{
     "name":"Universal Scripts",
-    "path":"folders/Global/Universal Scripts.yy",
+    "path":"folders/Scripts/Universal Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

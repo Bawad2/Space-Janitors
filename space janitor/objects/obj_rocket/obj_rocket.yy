@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"THE ROCKET",
-    "path":"folders/THE ROCKET.yy",
+    "path":"folders/Objects/THE ROCKET.yy",
   },
   "parentObjectId":{
     "name":"obj_Player",

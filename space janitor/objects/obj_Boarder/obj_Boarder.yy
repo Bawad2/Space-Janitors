@@ -9,8 +9,8 @@
   "name":"obj_Boarder",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Global/Universal Objects/Objects.yy",
+    "name":"THE ROCKET",
+    "path":"folders/Objects/THE ROCKET.yy",
   },
   "parentObjectId":null,
   "persistent":false,

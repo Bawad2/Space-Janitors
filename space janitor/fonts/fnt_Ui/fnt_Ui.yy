@@ -120,7 +120,7 @@
   "name":"fnt_Ui",
   "parent":{
     "name":"UI",
-    "path":"folders/Global/Universal Objects/Objects/UI.yy",
+    "path":"folders/Objects/UI.yy",
   },
   "pointRounding":0,
   "ranges":[

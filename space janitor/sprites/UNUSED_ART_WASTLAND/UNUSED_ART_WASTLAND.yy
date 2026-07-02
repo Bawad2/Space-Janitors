@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Unused",
-    "path":"folders/Global/EXTRA STUFF/Sprites/Unused.yy",
+    "path":"folders/EXTRA STUFF/Sprites/Unused.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -12,8 +12,8 @@
   "name":"obj_GameManger",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Global/Universal Objects/Objects.yy",
+    "name":"GameManeger",
+    "path":"folders/Objects/GameManeger.yy",
   },
   "parentObjectId":null,
   "persistent":true,

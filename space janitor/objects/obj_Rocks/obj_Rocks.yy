@@ -9,8 +9,8 @@
   "name":"obj_Rocks",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Global/Universal Objects/Objects.yy",
+    "name":"Level",
+    "path":"folders/Objects/Level.yy",
   },
   "parentObjectId":{
     "name":"obj_Wall",
