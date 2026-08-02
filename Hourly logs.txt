@@ -1,7 +1,5 @@
 ##main goals
-- make it so you can  upgarde the rocket you take to space.
-- initial phase where you do stuff to collect money to buy the rocket
-- you build a rocket to reach the moon
+				
 
 ##start (june 2nd || 3:41 pm)
 I figured out the main gameplay i want and lore.
@@ -388,6 +386,69 @@ start(5:29PM)
 -finished the car idle sprite (5:35 pm)
 -started work on restructuring the files(5:35Pm)
 -rearanged my files thats it(5:48)
+
+---------------------------- DAY END  ---------------------------------------------------------
+
+-------------------------------DAY 19 ----------------------------------------------------------
+JULY 2ND, 2026
+#Goals for the day
+work on adding the car sprite to the game
+make a tutorial system
+
+
+start(2:13PM)
+- start work on adding the sprite to the game( 2:15 PM )
+-tired to fix the game breaking when exported to HTML5 ( 2:20PM )[Got sidetracked]
+-failed to make it work(2 :50)
+-took the best nap OAT(7:19PM)
+---------------------------- DAY END  ---------------------------------------------------------
+-------------------------------DAY 20 ----------------------------------------------------------
+JULY 31st, 2026
+MY EXAM IS OVER AND WE ARE SO FUCKIGN BACK
+#Goals for the day
+-get back into the game
+
+start(3:24PM)
+-booted up gamemaker for the first time in about a month
+-first of all i want to make some changes to the scope of the game because im a bit a short on time(3:26PM)
+-some how manged to fix the html problem {i used gx instead} but this lead to a few more problems i need to fix now(3:36)
+-fixed the problems but for some reason the game feels choppy (3:40PM)
+-decided to get help from other people
+-found confirmation that it was genuinely my pc's fault(3:47)
+-did some testing to figure out what i need to work on.
+-decided to start work on a game over screen(3:50)
+---------------------------- DAY END  ---------------------------------------------------------
+-------------------------------DAY 21 ----------------------------------------------------------
+AUGUST 1st, 2026
+2nd day being back if I can keep this up I might actually be able to ship the project
+#Goals for the day 
+Make a better storyboard for the game so its easier for me to work on
+
+Start(4:47PM)
+-Started looking for what software to use
+-used milanote and finished the planning(5:27)
+-started work on the devlog for the day(5:28)
+-finished work for the day(5:51PM)
+---------------------------- DAY END  ---------------------------------------------------------
+-------------------------------DAY 22 ----------------------------------------------------------
+AUGUST 2nd, 2026
+Its 12 am and i have class at 9 am tmrw
+#Goals for the day
+Start work on earning money and rocket upgrade
+Start(12:33AM)
+- started work on the coin sprite(12:39)
+-finished the sprite and started work on the actually thing(12:52)
+-added the sprite as a part of the UI(1:02)
+- Made it so the amount of money you have also shows up(1:12AM)
+-Started work on making it so destroying asteroid gives money(1:13AM)
+-for some reason it keeps getting earased whenever i go to the rocket launch room so i give up for tonight(1:20AM)
+-came back(10:36PM)
+-decided to fix the bug from last night
+-decided to make a separate object fo managing ui stuff(10:41)
+-this bug is really weird (10:47)
+-figured out the problem. I Was drawing in a set place of the room instead of the screen(10:49)
+-decided to watcha tutorail on HUDs(10:52PM)
+-nevermind I give up for the day(10:54PM)
 
 
 

@@ -11,6 +11,7 @@ if place_meeting(x, y, obj_bullet)
 if hp <= 0 
 {
 	instance_create_layer(x, y, self.layer, obj_explosion);
+	global.money += reward;
 	instance_destroy();
 }
 

@@ -3,7 +3,6 @@ Here all the things I need to do will be put in list divided by sectors .
 -UI 
 -Level System
 -Upgradeable Rocket
--NPCs
 -Text System
 -FIGURE OUT AS I GO
 #Sprites
