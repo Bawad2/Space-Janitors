@@ -449,6 +449,31 @@ Start(12:33AM)
 -figured out the problem. I Was drawing in a set place of the room instead of the screen(10:49)
 -decided to watcha tutorail on HUDs(10:52PM)
 -nevermind I give up for the day(10:54PM)
+-finished writting the devlog (11:05PM)
+
+---------------------------- DAY END  ---------------------------------------------------------
+
+-------------------------------DAY 23 ----------------------------------------------------------
+August 4th, 2026
+I had a quite a busy day because of school and stuff
+
+#Goals for the day
+-fix the bug
+
+start(9:59 PM)
+-started work on figuring out how to make it apper on screen instead(10:00PM)
+-took me 10 whole seconds to remeber the draw_gui event(10:00;10 PM)
+-Money gui works and it also counts up(10:06 PM)
+-decided to start working on making it a click and move(10:09)
+-decided to reuse the obj_door and make it into a mover(10:10)
+-finished planning it out(10:13PM)
+-started work on a sprite(10:15 PM)
+-spent 10 mins working on a a feature where the pointer would bounce when the mouse hoverd over it only to scrarp it (10:33PM)
+-the mover works perfectly i just need to put it eveywhere(10:35PM)
+-started work on the devlog(11:12)
+
+
+
 
 
 

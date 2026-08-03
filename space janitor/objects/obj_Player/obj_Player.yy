@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"THE PLAYER",
-    "path":"folders/Objects/THE PLAYER.yy",
+    "path":"folders/EXTRA STUFF/Sprites/THE PLAYER.yy",
   },
   "parentObjectId":null,
   "persistent":true,

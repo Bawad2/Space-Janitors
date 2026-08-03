@@ -11,11 +11,13 @@
     {"name":"inst_520380E7","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_514E6956","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_3E81F9AE","path":"rooms/rm_MainScreen/rm_MainScreen.yy",},
+    {"name":"inst_12B139BB","path":"rooms/rm_MainScreen/rm_MainScreen.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"essenstials","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_3E81F9AE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E81F9AE","objectId":{"name":"obj_GameManger","path":"objects/obj_GameManger/obj_GameManger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":275.0,"y":317.0,},
+        {"$GMRInstance":"v4","%Name":"inst_12B139BB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_12B139BB","objectId":{"name":"obj_UiManger","path":"objects/obj_UiManger/obj_UiManger.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":224.0,"y":288.0,},
       ],"layers":[],"name":"essenstials","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"sprites","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_887ACD4","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_887ACD4","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":6.1200004,"scaleY":6.9259257,"spriteId":{"name":"spr_Title","path":"sprites/spr_Title/spr_Title.yy",},"x":256.0,"y":128.0,},
