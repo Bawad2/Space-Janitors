@@ -2,6 +2,11 @@
   "$GMRoomUI":"",
   "%Name":"RoomUI",
   "children":[
+    {"$GMRUILayer":"v1","%Name":"ShopMenu","alignItems":2,"children":[
+        {"$GMRFlexPanel":"","%Name":"MainShop","alignItems":2,"children":[
+            {"$GMRSpriteGraphic":"v1","%Name":"graphic_2569BAFB","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2569BAFB","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_Panel","path":"sprites/spr_Panel/spr_Panel.yy",},"x":0.0,"y":0.0,},
+          ],"flexDirection":0,"height":{"unit":2,"value":20.0,},"justifyContent":1,"name":"MainShop","nodeColour":4282937330,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":2,"value":50.0,},},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"ShopMenu","nodeColour":4282970848,"resourceType":"GMRUILayer","resourceVersion":"2.0","visible":false,},
     {"$GMRUILayer":"v1","%Name":"PauseMenu","alignItems":2,"children":[
         {"$GMRFlexPanel":"","%Name":"PauseMenu","alignItems":2,"children":[
             {"$GMRFlexPanel":"","%Name":"PauseButton","alignItems":1,"children":[
@@ -14,7 +19,7 @@
               ],"flexDirection":0,"height":{"unit":3,"value":16.0,},"justifyContent":2,"name":"PauseButton","nodeColour":4285352178,"paddingBottom":{"unit":1,"value":2.5,},"paddingLeft":{"unit":1,"value":5.0,},"paddingRight":{"unit":1,"value":5.0,},"paddingTop":{"unit":1,"value":2.5,},"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":16.0,},},
             {"$GMRSpriteGraphic":"v1","%Name":"graphic_57566487","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_57566487","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_Panel","path":"sprites/spr_Panel/spr_Panel.yy",},"x":0.0,"y":0.0,},
           ],"flexDirection":0,"height":{"unit":1,"value":350.0,},"justifyContent":0,"name":"PauseMenu","nodeColour":4282941426,"paddingBottom":{"unit":1,"value":30.0,},"paddingLeft":{"unit":1,"value":30.0,},"paddingRight":{"unit":1,"value":30.0,},"paddingTop":{"unit":1,"value":30.0,},"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":200.0,},},
-      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"PauseMenu","nodeColour":4289851976,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"PauseMenu","nodeColour":4289851976,"resourceType":"GMRUILayer","resourceVersion":"2.0","visible":false,},
     {"$GMRUILayer":"v1","%Name":"MainMenu","alignItems":2,"children":[
         {"$GMRFlexPanel":"","%Name":"MainMenu","alignContent":2,"alignItems":2,"children":[
             {"$GMRFlexPanel":"","%Name":"StartButton","alignItems":2,"children":[

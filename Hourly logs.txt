@@ -471,11 +471,66 @@ start(9:59 PM)
 -spent 10 mins working on a a feature where the pointer would bounce when the mouse hoverd over it only to scrarp it (10:33PM)
 -the mover works perfectly i just need to put it eveywhere(10:35PM)
 -started work on the devlog(11:12)
+-finished the devlog(11:25PM)
 
 
+---------------------------- DAY END  ---------------------------------------------------------
+
+-------------------------------DAY 24 ----------------------------------------------------------
+August 4th, 2026
+I didnt go to school today but instead slept the whole time.
+
+##Goals for the day
+- finish implementing the click to move system
 
 
+start(7:24PM)
+-My pc crashed and took me 20 mins to fix.
+-Started work on adding this every where(7:46PM)
+-i have to make a system where the mover object dynamically changes its sprite(7:50PM)
+-NEVER MIND GMS2 has a built in feature for it(7:51PM)
+- It works!(7:58PM)
+- I decided to make it so the sprites highlight when the mouse hovers over them(7:59PM)
+-decided to use chatgpt for help figuring out how to make these outlines(8:07)
+-decided to giveup instead(8:18PM)
+-concluded my break(9:18PM)
+-decided giving up is not an option 
+- IT WORKS (9:27 PM)
+-did some tweaking to make it perfect(9:32PM)
+-decided to turn it into a script cus I will be using this a lot
+-Finished making it into a script(9:46PM)
+- decided to make shop/ research center sprite(9:51PM)
+- silloute complete(10:03PM)
+- finished coloring line work left(10:23PM)
+-sprite is fully complete(10:33PM)
+- The opener can now open up a uilayer made for the shop(10:53PM)
+-im contemplating whether not to start work on the button sprites now.
+-Ill leave them for tmrw cus i got a chem exam tmrw
+-started work on the devlog(10:54PM)
+
+# DevLog #18
+
+## Well this is a long one.
+
+> I making a game where you collect money by cleaning up space junk 
+and use that money to upgrade your rocket
+
+Well, I did a *lot of stuff* today.
+
+- Finished **Implementing  click to move everywhere**
+
+- Made it so the sprites are highLighted when you hover you mouse over them. *This took me a lot of time to figure out*
+-# I used chatgpt for a hint during this part.
+
+- I worked on a sprite for the research lab where you buy upgrades for you rocket This took me like almost the whole hour.
+
+- Made the basics for the shop menu. I just need to draw a few buttons for the upgrades and it will be done.
 
 
+I used up a lot of the time I was supposed to be studying today to work so im lwk cooked.
+
+---------------------------- DAY END  ---------------------------------------------------------
+
+-------------------------------DAY 25 ----------------------------------------------------------
 
 

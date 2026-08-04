@@ -29,3 +29,10 @@ function getControls(){
 	if jumpKeyPressed		{ jkeybuffertimer = buffertime; };
 	if jkeybuffertimer > 0	{ jkeybufferd = 1; jkeybuffertimer--;  } else { jkeybufferd = 0; }
 }
+
+
+
+
+
+
+
