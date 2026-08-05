@@ -508,29 +508,37 @@ start(7:24PM)
 -Ill leave them for tmrw cus i got a chem exam tmrw
 -started work on the devlog(10:54PM)
 
-# DevLog #18
-
-## Well this is a long one.
-
-> I making a game where you collect money by cleaning up space junk 
-and use that money to upgrade your rocket
-
-Well, I did a *lot of stuff* today.
-
-- Finished **Implementing  click to move everywhere**
-
-- Made it so the sprites are highLighted when you hover you mouse over them. *This took me a lot of time to figure out*
--# I used chatgpt for a hint during this part.
-
-- I worked on a sprite for the research lab where you buy upgrades for you rocket This took me like almost the whole hour.
-
-- Made the basics for the shop menu. I just need to draw a few buttons for the upgrades and it will be done.
-
-
-I used up a lot of the time I was supposed to be studying today to work so im lwk cooked.
-
 ---------------------------- DAY END  ---------------------------------------------------------
 
 -------------------------------DAY 25 ----------------------------------------------------------
+August 5, 2026
 
+iv got a lot of free time today so i plan on being locked in
 
+##Goals for the day
+-finish the shop menu 
+-Make the rocket actually upgradable
+start(11:57AM)
+-Started work on laying out a plan for toady()
+-started work on the button sprites(12:00PM)
+-finished the button sprites(12:24PM)
+-got back from my break(2:40PM)
+-Started work on actually implementing the buttons
+-finished putting the buttons inside the game i just need to to make them work now(2:55PM)
+-Started work on a quit button that actually works()
+-Drew and added the quit button(3:08)
+- Started the code work for all the buttons()
+- Just go the quit button to work{THE DOPAMINE HIT IS CRAZY}  (3:15PM)
+- Started work on making the rocket upgradeable();
+-THEY WORK NOW well pretty much except a few bugs(3:30PM)
+- I decided to make a health system for the rocket(3:34)
+- I have now decided to redo all the health relateded stuff i did before(3:56PM)
+- I have to start off by planning out the whole procces and figure out what I want
+- I now realize that before trying to make the whole health thing work I need to make the day system stuff.(3:58)
+-took a break
+- started planning out how I want the day system to work(4:58)
+- my network crashed and i lost a few minutes
+- started work on the clock sprite(5:19PM)
+- after nearly a hour of suffering I decided not to make the clock look like a clock and instead make it look like a timer.(5:55PM)
+- I have now decided to hand draw all 180 frames of the clock(6:03PM)
+- Im gonna make a devlog of these before because thats gonna take a LONG LONG while(6:03Pm)

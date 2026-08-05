@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VariableHeaven",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VariableHeaven",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

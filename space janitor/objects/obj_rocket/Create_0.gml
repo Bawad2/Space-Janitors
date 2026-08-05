@@ -10,6 +10,8 @@ tilt_sensy = 3;
 //crash
 crashed = 0;
 front = layer_get_id("Front");
+HP = global.RHealth;
+
 
 thrust = 0;
 grv = 6;

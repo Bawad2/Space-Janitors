@@ -1,6 +1,10 @@
 
 getControls()
 
+//Update variables
+reloadspd = global.ReloadSpd;
+
+
 	//dynamic thrust
 	if ( mouse_wheel_up() or  keyboard_check_pressed(ord("W"))) and  -thrust <= maxSpd { thrust -= thrust_sensy; }
 	if ( mouse_wheel_down() or keyboard_check_pressed(ord("S"))) and -thrust >= -maxSpd { thrust += thrust_sensy; }
@@ -16,13 +20,24 @@ getControls()
 //crashing
 if place_meeting( x, y, obj_Wall ) { crashed = true }
 
-if crashed 
+if crashed and !place_meeting( x, y, obj_explosion)
 {
 	explosion = instance_create_layer( x, y, self.layer, obj_explosion);
 	explosion.image_xscale = 2;
 	explosion.image_yscale = 2;
-	instance_destroy(); 
+	crashed = false;
+	HP -= 5;
 };
+
+//Die when out of hp
+
+if HP <= 0
+{
+	instance_destroy();
+}
+
+
+
 
 
 //fly up
@@ -41,3 +56,12 @@ if reloadtimer > 0 { reloadtimer --;}
 if !place_meeting(x, y + grv + 1, obj_Wall) and !array_contains(spaceRooms,room) { y += grv; }
 
 move_wrap(true, true, 0)
+
+
+//DEBUG
+
+//show_debug_message(reloadspd);
+
+
+
+
