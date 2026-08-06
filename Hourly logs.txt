@@ -508,9 +508,9 @@ start(7:24PM)
 -Ill leave them for tmrw cus i got a chem exam tmrw
 -started work on the devlog(10:54PM)
 
----------------------------- DAY END  ---------------------------------------------------------
+---------------------------- DAY END  --------------------------------------------------------
 
--------------------------------DAY 25 ----------------------------------------------------------
+-------------------------------DAY 25 ---------------------------------------------------------
 August 5, 2026
 
 iv got a lot of free time today so i plan on being locked in
@@ -542,3 +542,22 @@ start(11:57AM)
 - after nearly a hour of suffering I decided not to make the clock look like a clock and instead make it look like a timer.(5:55PM)
 - I have now decided to hand draw all 180 frames of the clock(6:03PM)
 - Im gonna make a devlog of these before because thats gonna take a LONG LONG while(6:03Pm)
+
+---------------------------- DAY END  --------------------------------------------------------
+
+-------------------------------DAY 26 ---------------------------------------------------------
+August 6th, 2026
+
+Dont got much time rn but im gonna chip in a bit of work before I go to school.
+
+##Goals for the day 
+- chip in a bit of work on the timers
+
+Start(11:32)
+- Started work on the 3 min timer()
+- finished making individual numbers so i dont have to draw everyletter by hand(11:42PM)
+- finished the first minute(11:59PM) 
+
+
+
+
