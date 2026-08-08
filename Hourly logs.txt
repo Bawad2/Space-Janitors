@@ -508,9 +508,9 @@ start(7:24PM)
 -Ill leave them for tmrw cus i got a chem exam tmrw
 -started work on the devlog(10:54PM)
 
----------------------------- DAY END  --------------------------------------------------------
+---------------------------- DAY END  -------------------------------------------------------
 
--------------------------------DAY 25 ---------------------------------------------------------
+-------------------------------DAY 25 --------------------------------------------------------
 August 5, 2026
 
 iv got a lot of free time today so i plan on being locked in
@@ -543,9 +543,9 @@ start(11:57AM)
 - I have now decided to hand draw all 180 frames of the clock(6:03PM)
 - Im gonna make a devlog of these before because thats gonna take a LONG LONG while(6:03Pm)
 
----------------------------- DAY END  --------------------------------------------------------
+---------------------------- DAY END  -------------------------------------------------------
 
--------------------------------DAY 26 ---------------------------------------------------------
+-------------------------------DAY 26 --------------------------------------------------------
 August 6th, 2026
 
 Dont got much time rn but im gonna chip in a bit of work before I go to school.
@@ -557,6 +557,40 @@ Start(11:32)
 - Started work on the 3 min timer()
 - finished making individual numbers so i dont have to draw everyletter by hand(11:42PM)
 - finished the first minute(11:59PM) 
+
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 27 --------------------------------------------------------
+August 7th, 2026
+
+Had a really busy day but manged to get sometime to chip in some work
+
+##Goals for the day
+-continue the work from yesterday
+
+start(8:29Pm)
+- I have a bit of time before I take my cat to get nuterd
+- Restarted work on the timer(8:30PM)
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 28 --------------------------------------------------------
+August 8th,2026
+Had an extreamly busy day but finally some time
+
+##Goals for the day
+-continue the work
+
+start(11:18PM) {yes PM}
+-Started work on the sprite
+-One minute  left(11:33PM){My wrist genuinely hurts}
+-Finished and cleaned up the sprite(11:55PM)
+-Gonna start on the devlog()
+-I think the server just went down(12:00AM)
+-Its back(12:02AM)
+- Finished the devlog(12:09AM)
+
+
+
 
 
 
