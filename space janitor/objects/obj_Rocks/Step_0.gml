@@ -16,3 +16,12 @@ if hp <= 0
 }
 
 move_wrap(true,true , 100)
+
+//create new rock
+
+if instance_number(obj_Rocks) < 10 
+{
+ var new_rock = instance_create_layer( 0 , 0, self.layer ,obj_Rocks )
+
+	show_debug_message("NEW ROCK");
+}

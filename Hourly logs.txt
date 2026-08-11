@@ -33,16 +33,16 @@ make the player animated
 make the rocket shoot
 
 start(12:03 PM)
--trying to figure out how to make the rocket tilt(12:10)
--got sidetracked and made it so it cant fly 
+- trying to figure out how to make the rocket tilt(12:10)
+- got sidetracked and made it so it cant fly 
  through the ground anymore(12:17)
--made the tilt work (12:28)
--tweaked the tilt sensitivity so it feels better
--decided to add crashing to the game as in the rocket crashes if it
+- made the tilt work (12:28)
+- tweaked the tilt sensitivity so it feels better
+- decided to add crashing to the game as in the rocket crashes if it
  hits a wall while going to fast.(12:30)
--The rocket dies when it hits a wall now and 
+- The rocket dies when it hits a wall now and 
   im gonna add a explosion animation now (12:40)
--started work on the explosion sprite
+- started work on the explosion sprite
 -finished the explosion sprite(12:54)
 - manged to get the explosion working in game but its still too small
  (1:01 pm)
@@ -150,7 +150,8 @@ start(12:42 PM)
 JUNE 8TH, 2026
 my school starts from today so i will be a bit less active
 #Goals for the day
-finish up the outside portion
+finish up the outside portion
+
 start(10:46 AM)
 -Started work on some finishing touches for the rocket.
 -restarted work on the launchsite sprite(11:10)
@@ -173,7 +174,8 @@ start(7:50Pm)
 -fixed it(7:56)
 -started work on making it so the player can board the rocket.(8:45)
 -started work on the boarder sprite( 9:07)
--gave up working on the the sprite and decided to make a separate room where the player gets on board the rocket (9:27)
+-gave up working on the the sprite and decided to make a separate
+ room where the player gets on board the rocket (9:27)
 - i was having a camera glitch but manged to fix it(9:39)
 - IT WORKS!!!!(9:52pm)
 - started work on a Devlog(9:54)
@@ -378,7 +380,8 @@ Start(2:57PM)
 -------------------------------DAY 18 ----------------------------------------------------------
 JUNE 30Th, 2026
 #Goals for the day
-make some progress
+make some progress
+
 I have a test going on rn so I am much less active
 
 start(5:29PM)
@@ -434,7 +437,8 @@ Start(4:47PM)
 AUGUST 2nd, 2026
 Its 12 am and i have class at 9 am tmrw
 #Goals for the day
-Start work on earning money and rocket upgrade
+Start work on earning money and rocket upgrade
+
 Start(12:33AM)
 - started work on the coin sprite(12:39)
 -finished the sprite and started work on the actually thing(12:52)
@@ -517,7 +521,8 @@ iv got a lot of free time today so i plan on being locked in
 
 ##Goals for the day
 -finish the shop menu 
--Make the rocket actually upgradable
+-Make the rocket actually upgradable
+
 start(11:57AM)
 -Started work on laying out a plan for toady()
 -started work on the button sprites(12:00PM)
@@ -588,6 +593,72 @@ start(11:18PM) {yes PM}
 -I think the server just went down(12:00AM)
 -Its back(12:02AM)
 - Finished the devlog(12:09AM)
+
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 29 --------------------------------------------------------
+August 10th, 2026
+The day ended before i found time
+
+##Goals for the day
+- Figure out what to do
+
+start(12:27AM) yep AM
+- started it
+- turns out i didn't save my work last night(12:30AM)
+-its not much work so think i can do it rq
+-fixied it up(12:38AM)
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 30 --------------------------------------------------------
+August 11th,2026
+Barely did anything yesterday. But I plan on getting back in it today
+
+##Goals for the day
+- Figure out what to start next
+- Make a proper game over screen
+
+Start(11:56PM)
+- Started work on a game over screen(12:00 AM)
+- Had a great idea to add "Fuel" to the game, so instead of a timer ticking down its fuel running out(12:01AM)
+- Decided to work on rock spawners instead(12:06AM)
+- Rock spawning works(12:16AM)
+- Back the next day 11 PM lol im gonna count it in the next day
+--------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 31--------------------------------------------------------
+Another day coming back right before the day startes
+
+my plan is to log in a bit of work for the streak and then wake up real early tmrw.
+
+##Goals for the day 
+- make a fuel sprite ig
+
+Start(11:54Pm)
+- my pc is hella laggy and it took this long to open GMS(11:57PM)
+- started work on the sprite(12:00AM)
+- finished the sprite(12:31)
+- trying to figure out the math for the fuel thing
+- its frying my brain(12:39AM) and I love it
+- Manged to put in the game but im gonna have to debug it(12:48AM)
+- had to throw out all the math(12:51AM)
+- ig it kinda works(1:03AM)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

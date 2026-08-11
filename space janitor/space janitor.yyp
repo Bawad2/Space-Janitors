@@ -95,6 +95,7 @@
     {"id":{"name":"spr_Clouds","path":"sprites/spr_Clouds/spr_Clouds.yy",},},
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},},
     {"id":{"name":"spr_Explosion","path":"sprites/spr_Explosion/spr_Explosion.yy",},},
+    {"id":{"name":"spr_FuelMeter","path":"sprites/spr_FuelMeter/spr_FuelMeter.yy",},},
     {"id":{"name":"spr_House","path":"sprites/spr_House/spr_House.yy",},},
     {"id":{"name":"spr_HouseWallpaper","path":"sprites/spr_HouseWallpaper/spr_HouseWallpaper.yy",},},
     {"id":{"name":"spr_InsideTileSet","path":"sprites/spr_InsideTileSet/spr_InsideTileSet.yy",},},
