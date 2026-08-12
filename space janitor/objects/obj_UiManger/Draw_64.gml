@@ -17,10 +17,10 @@ draw_text_transformed( 60, 3, ":" + string(global.money), 3, 3, 0)
 }
 
 //Show fuel meter only when on the rocket
-if instance_exists(obj_rocket)
+if room == rm_Space1
 {
+	//draw the fuel sprite
+	
+	draw_sprite_ext(spr_FuelMeter, fuelImageIndex, 1120 , 20, 2,2,image_angle, image_blend, image_alpha)
 
 }
-
-//draw the fuel sprite
-draw_sprite_ext(spr_FuelMeter, fuelImageIndex, 1150 , 20, 2,2,image_angle, image_blend, image_alpha)
