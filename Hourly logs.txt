@@ -675,10 +675,28 @@ Turns out i didnt work again yesterday
 start(5:09PM)
 
 - Gonna work fixing my github
--i think i just fixed it(5;30PM) and i didnt even use AI
+- i think i just fixed it(5;30PM) and i didnt even use AI
+- YEP ITS FIXIED (5:31PM).
+- finally actually openned up GMS(5:32)
+- gonna work on my devlog from the other day()
+-------------------------- DAY END  -------------------------------------------------------
 
+-------------------------------DAY 33--------------------------------------------------------
+~~August 14th, 2025~~
+August 15th, 2025
+Just doing a bit of work to keep the streak.
+im lwk working on another project to buy minecraft
 
-
+##Goals for the day
+- Figure out the game over screen
+- fix up the shop cus it lwk don work
+Start(12:23AM)
+-
+I need to figure out what i want for the game over screen
+i already have that done but I need to figure out how to implement it.
+A ui layer ig. 
+- I have decided im gonna figure it out while working on the other game so i can make it work for both games.(12:26AM)
+- decided to start writting better commits
 
 
 
