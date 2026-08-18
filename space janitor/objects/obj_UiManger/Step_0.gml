@@ -11,4 +11,7 @@ if room == rm_Space1
 	if fuelSec != 1 { 	fuelSec --; }
 fuelImageIndex = 7 - round(fuelSec/1000)
 }
-show_debug_message(fuelSec);
+
+
+//turn of the GameOverScreen when the room changes
+if room == rm_House { layer_set_visible("GameOverScreen", false);  }

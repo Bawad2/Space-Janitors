@@ -8,3 +8,24 @@ if paused
 
 } 
 if !paused { instance_activate_all(); layer_set_visible("PauseMenu", false );  }
+
+//cash tracker
+//track earned money
+if room == !rm_Space1
+{
+	global.OldMoney = global.money
+}
+
+if room == rm_Space1 
+{
+	global.MoneyThisLevel = global.money - global.OldMoney;
+	
+} else{ global.MoneyThisLevel = 0;  }
+
+show_debug_message(global.OldMoney);
+
+
+
+//BUG TESTING / TEMP CODE
+
+if keyboard_check_pressed(vk_numpad0) { layer_set_visible("GameOverScreen", true)  }

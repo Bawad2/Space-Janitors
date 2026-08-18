@@ -1,0 +1,1 @@
+earned_money = 0;

@@ -682,8 +682,8 @@ start(5:09PM)
 -------------------------- DAY END  -------------------------------------------------------
 
 -------------------------------DAY 33--------------------------------------------------------
-~~August 14th, 2025~~
-August 15th, 2025
+~~August 14th, 2026~~
+August 15th, 2026
 Just doing a bit of work to keep the streak.
 im lwk working on another project to buy minecraft
 
@@ -697,6 +697,57 @@ i already have that done but I need to figure out how to implement it.
 A ui layer ig. 
 - I have decided im gonna figure it out while working on the other game so i can make it work for both games.(12:26AM)
 - decided to start writting better commits
+- my cats hate me working
+-------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 34--------------------------------------------------------
+another quick chip in day
+its still the last day
+
+##Goals for the day
+- fix up smthing to spend the 5 mins
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 35 --------------------------------------------------------
+August 16, 2026
+another day ruining the sleep schedule
+##Goals for the day 
+- do some basic shi to keep the streak
+
+
+start(11:51Pm)
+-added some basics for game over screen
+-gonna figure out the rest in the other project
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 36 --------------------------------------------------------
+another chip in day
+August 18th, 2026
+
+##Goals for the day
+-work on the game over screen
+
+Start(12:12AM)
+- I lwk plan on waking up early tmrw and working but I really dought that,
+- gonna make a object that show the stats(12:13AM)
+- gonna add a way to track how much money earned every day(12:15AM)
+- no i dea what i did(12:26Searned_moneA)
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 37 --------------------------------------------------------
+Another day another last minute streak save
+August 19th, 2026
+
+##Goals for today
+- continue yesterdays work
+
+Start(11:41PM){Im just gonna count it as tmrw}
+- Gonna porperly make the stats shower(11:43Pm)
+- So it turns out the code doesnt actually work(11:50PM) gonna figure out why now
+- TURNS OUT MY CODE WAS PERFECTLY FINE i was just excuting it in the wrong place (12:01 AM)
+- gonna tweak the looks of the menu now and add the go back to room button
+-It works perfectly but looks ass(12:25AM)
+-I plan on waking up early today {ik it aint gon happen but hoping doesnt hurt}(12:26AM)
 
 
 
