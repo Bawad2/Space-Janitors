@@ -748,10 +748,21 @@ Start(11:41PM){Im just gonna count it as tmrw}
 - gonna tweak the looks of the menu now and add the go back to room button
 -It works perfectly but looks ass(12:25AM)
 -I plan on waking up early today {ik it aint gon happen but hoping doesnt hurt}(12:26AM)
+---------------------------- DAY END  -------------------------------------------------------
 
+-------------------------------DAY 38 --------------------------------------------------------
+we didnt have power all day today D:
+ August 20th,2026
 
+ig my day just startes from 12AM
+##Goals for the day 
+- fix up the GameOverScreen looks and 
+- properly implement it
 
-
+Start(12:04AM)
+-spent a bunch of time customizing gamemaker (12:15AM)
+-for some reason im working on making a poster for the Itch page
+-finished the poster(1:34AM)
 
 
 
