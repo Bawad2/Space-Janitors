@@ -21,7 +21,7 @@ move_wrap(true,true , 100)
 
 if instance_number(obj_Rocks) < 10 
 {
- var new_rock = instance_create_layer( 0 , 0, self.layer ,obj_Rocks )
+ var new_rock = instance_create_layer( random(1060) , -10, self.layer ,obj_Rocks )
 
-	show_debug_message("NEW ROCK");
+	
 }

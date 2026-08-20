@@ -5,6 +5,7 @@ if room == rm_MainScreen { paused = false;};
 if paused 
 { 
 	layer_set_visible( "PauseMenu" , true )
+	instance_deactivate_all(true);
 
 } 
 if !paused { instance_activate_all(); layer_set_visible("PauseMenu", false );  }
@@ -22,7 +23,9 @@ if room == rm_Space1
 	
 } else{ global.MoneyThisLevel = 0;  }
 
-show_debug_message(global.OldMoney);
+
+//
+
 
 
 
