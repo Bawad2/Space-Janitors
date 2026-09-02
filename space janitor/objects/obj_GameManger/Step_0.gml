@@ -5,10 +5,10 @@ if room == rm_MainScreen { paused = false;};
 if paused 
 { 
 	layer_set_visible( "PauseMenu" , true )
-	instance_deactivate_all(true);
+	global.pausemenu = true;
 
 } 
-if !paused { instance_activate_all(); layer_set_visible("PauseMenu", false );  }
+if !paused  { layer_set_visible("PauseMenu", false ); global.pausemenu = false;  }
 
 //cash tracker
 //track earned money

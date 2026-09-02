@@ -1,3 +1,7 @@
+//exit if paused
+if global.pausemenu { exit; }
+
+
 //Update the variables
 dmg = global.DMG;
 

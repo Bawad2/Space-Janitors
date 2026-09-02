@@ -1,0 +1,9 @@
+make a function which runs in every object
+there will be diffrent types of pause events
+certain pause events only pause certain objects
+like the pause menu wont stop background elements
+
+
+alr instead of a function make script
+have a bunch of pause statements
+and manually put them in every object

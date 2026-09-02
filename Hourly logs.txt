@@ -821,9 +821,23 @@ September 2nd, 2026
 Im planning to move the game pixl instead of stardance but like that will put a lot of my hours to ruin so i dont know
 
 start(2:54PM)
--
+-im gonna try to salvage some sprite from my old game
+- made my game ready for pixl ( 3:43PM) made the decision to throw out all those hours cus they wont get me anything good anyways
+
+-continued work on the background of the main menu  after lunch(4:24PM)
+- finished work on the menu
+- gonna figure out what to do again
+- Gonna make pausing real()
+- im gonna figure out how to make pausing actually work()
+-after working on the past version for a good bit of time i decided to make it the other way(5:01PM)
+
+I have decided i dont want work on this project anymore and im gonna perp it to ship as soon as i can
+
+im gonna ship it as it is now it is functional and i dont feel any attachment towards it anymore.
 
 
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------ THE END  -----------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------

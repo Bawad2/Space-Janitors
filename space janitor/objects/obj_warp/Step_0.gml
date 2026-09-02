@@ -1,3 +1,6 @@
+//exit if paused
+if global.pausemenu { exit; }
+
 instance = instance_place( x, y, obj_Player )
 
 with(instance) 

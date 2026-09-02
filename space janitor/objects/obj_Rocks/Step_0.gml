@@ -1,3 +1,6 @@
+//exit if paused
+if global.pausemenu { exit; }
+
 //making it move
 motion_set(image_angle,spd)
 

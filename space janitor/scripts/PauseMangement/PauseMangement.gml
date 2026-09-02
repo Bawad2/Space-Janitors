@@ -1,0 +1,1 @@
+global.pausemenu = 0;
