@@ -23,5 +23,4 @@ if instance_number(obj_Rocks) < 10
 {
  var new_rock = instance_create_layer( random(1060) , -10, self.layer ,obj_Rocks )
 
-	
 }

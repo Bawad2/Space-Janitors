@@ -780,3 +780,50 @@ Start(12:01AM)
 - It looks good(12:21AM)
 - Im gonna work on making it so the pause button actually works and when a UI layer is open nothing else can be interacted with(12:22AM)
 - gonna fix the rock spawning bug(12:25AM)
+-tbh im too sleepy now im gonna go epp(12:33AM)
+
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 40 --------------------------------------------------------
+IM BACK BEFORE 12AM TODAY!!
+August 21st, 2026
+
+##Goals for the day
+- fix the pause menu
+
+Start(6:32PM)
+-instead i decided to deepen my knowledge of GameMaker
+
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 41 --------------------------------------------------------
+August 22nd, 2026
+
+I have decided something very drastic
+Im gonna read the whole game maker Manuel so i know about every function and wwhat they do.
+
+Start(5:15PM)
+-Started reading
+-decided to make a notepad file to note down everything i feel is useful.
+
+
+---------------------------- DAY END  -------------------------------------------------------
+
+-------------------------------DAY 42 --------------------------------------------------------
+Back after a while. Was working on Jame gam these days
+September 2nd, 2026
+
+
+##Goals for the day
+- get back in the loop
+- make the title look better
+
+Im planning to move the game pixl instead of stardance but like that will put a lot of my hours to ruin so i dont know
+
+start(2:54PM)
+-
+
+
+
+
+

@@ -24,7 +24,9 @@ if room == rm_Space1
 } else{ global.MoneyThisLevel = 0;  }
 
 
-//
+//pause everything else if any UI layer is on
+
+
 
 
 
