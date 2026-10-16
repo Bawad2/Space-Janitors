@@ -841,3 +841,33 @@ im gonna ship it as it is now it is functional and i dont feel any attachment to
 ---------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------ THE END  -----------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
+the resurrection
+-stardance didnt accept my game cus it wasnt "Functional" ig im gonna have to re-work on the game now.
+
+#List of problems I have to solve
+- get rid of the settings button
+- make the rocket not clickable through the UI
+- Also make sure to change the banner
+
+
+#start 16th october, 2026
+- The UI is the only thing that needs real "work"
+-gonna get rid of the others now
+-settings button gone
+-gonna get a banner now
+
+
+that wasn't hard now was it?
+
+
+
+
+
+
+
+
+
+
+
+
+
